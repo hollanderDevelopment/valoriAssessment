@@ -1,0 +1,19 @@
+{
+  "name": "valoriassessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/chai": "^5.2.2",
+    "@types/node": "^24.3.0",
+    "cypress": "^14.5.4"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}

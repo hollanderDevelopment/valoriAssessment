@@ -1,0 +1,21 @@
+{
+    "login": {
+        "username": "customer@practicesoftwaretesting.com",
+        "password": "welcome01"
+    },
+    "billingAddress": {
+        "street": "Teststraat",
+        "city": "Teststad",
+        "state": "Testprovincie",
+        "country": "Testland",
+        "postcode": "1234AB"
+    },
+    "contact": {
+        "firstName": "Test",
+        "lastName": "Tester",
+        "emailAddress": "test123@test.nl",
+        "subject": "Return",
+        "message": "Lorem ipsum dolor sit amet consectetur adipiscing elit quisque faucibus ex sapien vitae pellentesque sem.",
+        "attachment": "cypress/fixtures/upload_document.txt"
+    }
+}
